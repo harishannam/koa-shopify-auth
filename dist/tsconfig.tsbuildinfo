@@ -1,0 +1,1782 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "signature": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "signature": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
+        "signature": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b5e4c2d67aa844ed503b29cd4ca2ede1a229ac7fe874613b2c996fa9c581a25f",
+        "signature": "b5e4c2d67aa844ed503b29cd4ca2ede1a229ac7fe874613b2c996fa9c581a25f",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+        "version": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "signature": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "signature": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/tslib/tslib.d.ts": {
+        "version": "4576b4e61049f5ffd7c9e935cf88832e089265bdb15ffc35077310042cbbbeea",
+        "signature": "4576b4e61049f5ffd7c9e935cf88832e089265bdb15ffc35077310042cbbbeea",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/globals.d.ts": {
+        "version": "215d8d9a2c480fd460127edc048d68d9931d3b27f95132253a6e71975f060bb1",
+        "signature": "215d8d9a2c480fd460127edc048d68d9931d3b27f95132253a6e71975f060bb1",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/async_hooks.d.ts": {
+        "version": "c438b413e94ff76dfa20ae005f33a1c84f2480d1d66e0fd687501020d0de9b50",
+        "signature": "c438b413e94ff76dfa20ae005f33a1c84f2480d1d66e0fd687501020d0de9b50",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/buffer.d.ts": {
+        "version": "bc6a78961535181265845bf9b9e8a147ffd0ca275097ceb670a9b92afa825152",
+        "signature": "bc6a78961535181265845bf9b9e8a147ffd0ca275097ceb670a9b92afa825152",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/child_process.d.ts": {
+        "version": "a4b5411d87995b9fb847f491f4388b38f829d8ab39be3e2fd65a3e40709f29a8",
+        "signature": "a4b5411d87995b9fb847f491f4388b38f829d8ab39be3e2fd65a3e40709f29a8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/cluster.d.ts": {
+        "version": "123ec69e4b3a686eb49afd94ebe3292a5c84a867ecbcb6bb84bdd720a12af803",
+        "signature": "123ec69e4b3a686eb49afd94ebe3292a5c84a867ecbcb6bb84bdd720a12af803",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/console.d.ts": {
+        "version": "eb5197aade83cb0e360ac407289c53a8009e8fdae7939892a0240d30444496b6",
+        "signature": "eb5197aade83cb0e360ac407289c53a8009e8fdae7939892a0240d30444496b6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/constants.d.ts": {
+        "version": "90c85ddbb8de82cd19198bda062065fc51b7407c0f206f2e399e65a52e979720",
+        "signature": "90c85ddbb8de82cd19198bda062065fc51b7407c0f206f2e399e65a52e979720",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/crypto.d.ts": {
+        "version": "3d9c3ccc05ebc6e288bef007bcc47a2fc0dce748ea634093ef0732b9be743805",
+        "signature": "3d9c3ccc05ebc6e288bef007bcc47a2fc0dce748ea634093ef0732b9be743805",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/dgram.d.ts": {
+        "version": "7e050b767ed10c7ffbc01f314defbf420bf0b5d54ce666e1c87507c035dfc191",
+        "signature": "7e050b767ed10c7ffbc01f314defbf420bf0b5d54ce666e1c87507c035dfc191",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/dns.d.ts": {
+        "version": "51f82a7e0819a91c170eb1ad39ad1917a0cbb8f9354fdaed66a5189745f63f71",
+        "signature": "51f82a7e0819a91c170eb1ad39ad1917a0cbb8f9354fdaed66a5189745f63f71",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/domain.d.ts": {
+        "version": "2866a528b2708aa272ec3eaafd3c980abb23aec1ef831cfc5eb2186b98c37ce5",
+        "signature": "2866a528b2708aa272ec3eaafd3c980abb23aec1ef831cfc5eb2186b98c37ce5",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/events.d.ts": {
+        "version": "153d835dc32985120790e10102834b0a5bd979bb5e42bfbb33c0ff6260cf03ce",
+        "signature": "153d835dc32985120790e10102834b0a5bd979bb5e42bfbb33c0ff6260cf03ce",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/fs.d.ts": {
+        "version": "2e204fb437b8e98937c933cb7e739b24b871872161997d7dfe98841b861a14f0",
+        "signature": "2e204fb437b8e98937c933cb7e739b24b871872161997d7dfe98841b861a14f0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/fs/promises.d.ts": {
+        "version": "1c0692002778565d9b3ee0edea6ca133caadd714597228525fec8e2fd9846755",
+        "signature": "1c0692002778565d9b3ee0edea6ca133caadd714597228525fec8e2fd9846755",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/http.d.ts": {
+        "version": "f2f8a385694fd71a421616cbaca477a539f30f4098f11261b1d188d72dc3478a",
+        "signature": "f2f8a385694fd71a421616cbaca477a539f30f4098f11261b1d188d72dc3478a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/http2.d.ts": {
+        "version": "f15f1f1104aaf47d25124de81949375416e3f8ee704e3d221bea339e35421edb",
+        "signature": "f15f1f1104aaf47d25124de81949375416e3f8ee704e3d221bea339e35421edb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/https.d.ts": {
+        "version": "c969bf4c7cdfe4d5dd28aa09432f99d09ad1d8d8b839959646579521d0467d1a",
+        "signature": "c969bf4c7cdfe4d5dd28aa09432f99d09ad1d8d8b839959646579521d0467d1a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/inspector.d.ts": {
+        "version": "6c3857edaeeaaf43812f527830ebeece9266b6e8eb5271ab6d2f0008306c9947",
+        "signature": "6c3857edaeeaaf43812f527830ebeece9266b6e8eb5271ab6d2f0008306c9947",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/module.d.ts": {
+        "version": "bc6a77e750f4d34584e46b1405b771fb69a224197dd6bafe5b0392a29a70b665",
+        "signature": "bc6a77e750f4d34584e46b1405b771fb69a224197dd6bafe5b0392a29a70b665",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/net.d.ts": {
+        "version": "3c5edfced8c5cd35e3680789deabbe4f478b67a42b26d82d91eea9d3f07f4771",
+        "signature": "3c5edfced8c5cd35e3680789deabbe4f478b67a42b26d82d91eea9d3f07f4771",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/os.d.ts": {
+        "version": "ed4ae81196cccc10f297d228bca8d02e31058e6d723a3c5bc4be5fb3c61c6a34",
+        "signature": "ed4ae81196cccc10f297d228bca8d02e31058e6d723a3c5bc4be5fb3c61c6a34",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/path.d.ts": {
+        "version": "84044697c8b3e08ef24e4b32cfe6440143d07e469a5e34bda0635276d32d9f35",
+        "signature": "84044697c8b3e08ef24e4b32cfe6440143d07e469a5e34bda0635276d32d9f35",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "4982d94cb6427263c8839d8d6324a8bbe129e931deb61a7380f8fad17ba2cfc0",
+        "signature": "4982d94cb6427263c8839d8d6324a8bbe129e931deb61a7380f8fad17ba2cfc0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/process.d.ts": {
+        "version": "ae4bc1dd4d9de7bbea6ce419db45af82a81358e6014c9e1235b5d252e06f8ab8",
+        "signature": "ae4bc1dd4d9de7bbea6ce419db45af82a81358e6014c9e1235b5d252e06f8ab8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/punycode.d.ts": {
+        "version": "3f6a1fd73c9dc3bd7f4b79bc075297ca6527904df69b0f2c2c94e4c4c7d9a32c",
+        "signature": "3f6a1fd73c9dc3bd7f4b79bc075297ca6527904df69b0f2c2c94e4c4c7d9a32c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/querystring.d.ts": {
+        "version": "884560fda6c3868f925f022adc3a1289fe6507bbb45adb10fa1bbcc73a941bb0",
+        "signature": "884560fda6c3868f925f022adc3a1289fe6507bbb45adb10fa1bbcc73a941bb0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/readline.d.ts": {
+        "version": "6b2bb67b0942bcfce93e1d6fad5f70afd54940a2b13df7f311201fba54b2cbe9",
+        "signature": "6b2bb67b0942bcfce93e1d6fad5f70afd54940a2b13df7f311201fba54b2cbe9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/repl.d.ts": {
+        "version": "acbed967a379b3e9f73237ba9473f8b337eeea14b7dc64d445430b5d695751da",
+        "signature": "acbed967a379b3e9f73237ba9473f8b337eeea14b7dc64d445430b5d695751da",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/stream.d.ts": {
+        "version": "e7b5a3f40f19d9eea71890c70dfb37ac5dd82cbffe5f95bc8f23c536455732d0",
+        "signature": "e7b5a3f40f19d9eea71890c70dfb37ac5dd82cbffe5f95bc8f23c536455732d0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/string_decoder.d.ts": {
+        "version": "d67e08745494b000da9410c1ae2fdc9965fc6d593fe0f381a47491f75417d457",
+        "signature": "d67e08745494b000da9410c1ae2fdc9965fc6d593fe0f381a47491f75417d457",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/tls.d.ts": {
+        "version": "01c351e71743ff26450789ec4ca6a1421c647c9c459aa8007e9e1914073b5db2",
+        "signature": "01c351e71743ff26450789ec4ca6a1421c647c9c459aa8007e9e1914073b5db2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/trace_events.d.ts": {
+        "version": "a77fdb357c78b70142b2fdbbfb72958d69e8f765fd2a3c69946c1018e89d4638",
+        "signature": "a77fdb357c78b70142b2fdbbfb72958d69e8f765fd2a3c69946c1018e89d4638",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/tty.d.ts": {
+        "version": "3c2ac350c3baa61fd2b1925844109e098f4376d0768a4643abc82754fd752748",
+        "signature": "3c2ac350c3baa61fd2b1925844109e098f4376d0768a4643abc82754fd752748",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/url.d.ts": {
+        "version": "4001971b90f18161f7bd46d68150d32a5da47e3f177956a267a2b29a2771896a",
+        "signature": "4001971b90f18161f7bd46d68150d32a5da47e3f177956a267a2b29a2771896a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/util.d.ts": {
+        "version": "f28704c27e1bd58068052f5407541a3306f0ffc77f068e2891f46527a4569e25",
+        "signature": "f28704c27e1bd58068052f5407541a3306f0ffc77f068e2891f46527a4569e25",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/v8.d.ts": {
+        "version": "289be113bad7ee27ee7fa5b1e373c964c9789a5e9ed7db5ddcb631371120b953",
+        "signature": "289be113bad7ee27ee7fa5b1e373c964c9789a5e9ed7db5ddcb631371120b953",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/vm.d.ts": {
+        "version": "baf0b82ffc5d2616f44a6fb1f81e8d798545bebf0c30f5d8b003a1dba1acfb3f",
+        "signature": "baf0b82ffc5d2616f44a6fb1f81e8d798545bebf0c30f5d8b003a1dba1acfb3f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/worker_threads.d.ts": {
+        "version": "c6a5b34f1e725019445754f1e733585f113e0dced75f137bd3c4af5853d3f6ab",
+        "signature": "c6a5b34f1e725019445754f1e733585f113e0dced75f137bd3c4af5853d3f6ab",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/zlib.d.ts": {
+        "version": "15fbe50526244954eb2f933546bca6cdcf0db16c9428d099b3b386c1db5799ab",
+        "signature": "15fbe50526244954eb2f933546bca6cdcf0db16c9428d099b3b386c1db5799ab",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/ts3.4/base.d.ts": {
+        "version": "d44028ae0127eb3e9fcfa5f55a8b81d64775ce15aca1020fe25c511bbb055834",
+        "signature": "d44028ae0127eb3e9fcfa5f55a8b81d64775ce15aca1020fe25c511bbb055834",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/globals.global.d.ts": {
+        "version": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "signature": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/wasi.d.ts": {
+        "version": "4e0a4d84b15692ea8669fe4f3d05a4f204567906b1347da7a58b75f45bae48d3",
+        "signature": "4e0a4d84b15692ea8669fe4f3d05a4f204567906b1347da7a58b75f45bae48d3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/ts3.6/base.d.ts": {
+        "version": "ad1ae5ae98eceb9af99061e83e867b9897d267aebc8f3b938c9424deabadf4bb",
+        "signature": "ad1ae5ae98eceb9af99061e83e867b9897d267aebc8f3b938c9424deabadf4bb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/assert.d.ts": {
+        "version": "b3593bd345ebea5e4d0a894c03251a3774b34df3d6db57075c18e089a599ba76",
+        "signature": "b3593bd345ebea5e4d0a894c03251a3774b34df3d6db57075c18e089a599ba76",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/base.d.ts": {
+        "version": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
+        "signature": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/index.d.ts": {
+        "version": "744e6430bafc6f39f66c4fc1e6a0d8c9551260ffd1782aa7e3f5166ac6aa1f86",
+        "signature": "744e6430bafc6f39f66c4fc1e6a0d8c9551260ffd1782aa7e3f5166ac6aa1f86",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/accepts/index.d.ts": {
+        "version": "6738101ae8e56cd3879ab3f99630ada7d78097fc9fd334df7e766216778ca219",
+        "signature": "6738101ae8e56cd3879ab3f99630ada7d78097fc9fd334df7e766216778ca219",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/keygrip/index.d.ts": {
+        "version": "ce013414484233b24f42c0fcfca48a60bb66ab4e13c82953662305e8f1ee4925",
+        "signature": "ce013414484233b24f42c0fcfca48a60bb66ab4e13c82953662305e8f1ee4925",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/range-parser/index.d.ts": {
+        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/qs/index.d.ts": {
+        "version": "adec64722d7da7581f6137c69426fc6e3859609e3c2ceeffb311f0be9a5ba4ae",
+        "signature": "adec64722d7da7581f6137c69426fc6e3859609e3c2ceeffb311f0be9a5ba4ae",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/express-serve-static-core/index.d.ts": {
+        "version": "b6be0ba4d5bf5aec9b420843774393a8b245c337cc55e0134663d6cffe68178b",
+        "signature": "b6be0ba4d5bf5aec9b420843774393a8b245c337cc55e0134663d6cffe68178b",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/mime/index.d.ts": {
+        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/serve-static/index.d.ts": {
+        "version": "adde1c915ab3b61a2821c72f226546c6c119a061a2ff4d6f90b3d61c005ae1f8",
+        "signature": "adde1c915ab3b61a2821c72f226546c6c119a061a2ff4d6f90b3d61c005ae1f8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/connect/index.d.ts": {
+        "version": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
+        "signature": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/body-parser/index.d.ts": {
+        "version": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
+        "signature": "ebddbd167c2fabd0151f50e5df94ca6d845149c47521280d8867afe3429dd078",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/express/index.d.ts": {
+        "version": "088d420a09a36d241f1ddbdcb553951c02ef0844014727a29712d2ced57edd22",
+        "signature": "088d420a09a36d241f1ddbdcb553951c02ef0844014727a29712d2ced57edd22",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/cookies/index.d.ts": {
+        "version": "0882fadf0f47cc8d812beed6ffc85a6edc1c2b42af5fd7e0da1fa35dc1868708",
+        "signature": "0882fadf0f47cc8d812beed6ffc85a6edc1c2b42af5fd7e0da1fa35dc1868708",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/http-assert/index.d.ts": {
+        "version": "97fd9fd06a67deac133ddeac0b4a266db5eede2e40ec6ad67b31b0b862559643",
+        "signature": "97fd9fd06a67deac133ddeac0b4a266db5eede2e40ec6ad67b31b0b862559643",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/http-errors/index.d.ts": {
+        "version": "85e7ed2eea56d4ecaf94420c82f541dd30ed657f4b82efc34f6377c774db7fc8",
+        "signature": "85e7ed2eea56d4ecaf94420c82f541dd30ed657f4b82efc34f6377c774db7fc8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/koa-compose/index.d.ts": {
+        "version": "5006668996956580886022c05108e32c742823e1b5652aff7914917233731518",
+        "signature": "5006668996956580886022c05108e32c742823e1b5652aff7914917233731518",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/content-disposition/index.d.ts": {
+        "version": "e51de415deb172e3595b5194113cb82c416822bcce55d9a8ca0d8fac57510546",
+        "signature": "e51de415deb172e3595b5194113cb82c416822bcce55d9a8ca0d8fac57510546",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/koa/index.d.ts": {
+        "version": "fed022257e93cd49e05b4fd20f86f019e5f2168a30462bb57579e537535889f0",
+        "signature": "fed022257e93cd49e05b4fd20f86f019e5f2168a30462bb57579e537535889f0",
+        "affectsGlobalScope": false
+      },
+      "../src/types.ts": {
+        "version": "dc83bbd1cb129ea9e7cb228669dcf69b6d791abbe13e91e10b8099f1da7ade63",
+        "signature": "7cc70291f2bc224c8a0d26050e62c28ffd62b3ac19d1dfccc59a3605f9efdb50",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/cookie-options.ts": {
+        "version": "a5687d2cea00a9e155846df1e0ea1249e5be541bd3f5f77e7d87fd885f85329e",
+        "signature": "c11a9e1ad850b94669614899fd4cd497a9266f25978829377b0c0678614cdda8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/error.d.ts": {
+        "version": "2e953448e3ba52aaa7506a4062b935cc2adbb9c1b163d13e54908854b416c7b1",
+        "signature": "2e953448e3ba52aaa7506a4062b935cc2adbb9c1b163d13e54908854b416c7b1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts": {
+        "version": "aea5ac4b2b935752484c9a3f1bdeff3a232c6785bd2a39ab1c5270683b443331",
+        "signature": "aea5ac4b2b935752484c9a3f1bdeff3a232c6785bd2a39ab1c5270683b443331",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts": {
+        "version": "a83dd3f365ed63bb25657e327bf1606cdf784eba456e1a7e88b72990a6c18ade",
+        "signature": "a83dd3f365ed63bb25657e327bf1606cdf784eba456e1a7e88b72990a6c18ade",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts": {
+        "version": "e71a1f223fb0583bc0e3d473c87b02580ed9688f15dcfe1dd33523b4964fa565",
+        "signature": "e71a1f223fb0583bc0e3d473c87b02580ed9688f15dcfe1dd33523b4964fa565",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts": {
+        "version": "87ddb0ad76d9f4be4e8ba7de905cb446935eac0f872c4d209a43f556bf25f698",
+        "signature": "87ddb0ad76d9f4be4e8ba7de905cb446935eac0f872c4d209a43f556bf25f698",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts": {
+        "version": "f535da72d35c802e0518c373c5d9d29bac6a7a6bb0803fcd777049019618bea2",
+        "signature": "f535da72d35c802e0518c373c5d9d29bac6a7a6bb0803fcd777049019618bea2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts": {
+        "version": "0c09a96c51ff890db0d262451c7e5b1dfcc7b47cb6e2ce36f98bc14d4ed4b759",
+        "signature": "0c09a96c51ff890db0d262451c7e5b1dfcc7b47cb6e2ce36f98bc14d4ed4b759",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/network/build/ts/network.d.ts": {
+        "version": "9d79c69e1d00112a38f1b7fd807dcea52accb33e281b7ae0a1158c5357e08b81",
+        "signature": "9d79c69e1d00112a38f1b7fd807dcea52accb33e281b7ae0a1158c5357e08b81",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/network/build/ts/index.d.ts": {
+        "version": "ff64b78178c3e91e167cdcd16fc9965d3afaf13977da0d8eeef905a91a4ecdf8",
+        "signature": "ff64b78178c3e91e167cdcd16fc9965d3afaf13977da0d8eeef905a91a4ecdf8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/network/index.d.ts": {
+        "version": "c764e4b366d618f322eed2516625504271df236685eb19101b1f7715eebb5ff9",
+        "signature": "c764e4b366d618f322eed2516625504271df236685eb19101b1f7715eebb5ff9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node-fetch/node_modules/form-data/index.d.ts": {
+        "version": "cbb7029e32a6a72178cda8baa9129b1ee6d1d779a35e46c780e38b4909d42a89",
+        "signature": "cbb7029e32a6a72178cda8baa9129b1ee6d1d779a35e46c780e38b4909d42a89",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node-fetch/externals.d.ts": {
+        "version": "972f1e91dab93b182624a17eeed02f683b8cb3fefbda7b689cc84570029d5f73",
+        "signature": "972f1e91dab93b182624a17eeed02f683b8cb3fefbda7b689cc84570029d5f73",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node-fetch/index.d.ts": {
+        "version": "9895aad6ad1d505e2b03c8e41c8643b60a813ad130eb68f843b736b2db7d42e1",
+        "signature": "9895aad6ad1d505e2b03c8e41c8643b60a813ad130eb68f843b736b2db7d42e1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts": {
+        "version": "9562f1b53945508c1a9ce6b6524d6292c0b899cbe76867d313a4e9a761c58dfe",
+        "signature": "9562f1b53945508c1a9ce6b6524d6292c0b899cbe76867d313a4e9a761c58dfe",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/clients/rest/types.d.ts": {
+        "version": "2ed25c1f47d18ad9ca8b9bfd3f0f3e501df974482b53cafd92845e592f7d1c36",
+        "signature": "2ed25c1f47d18ad9ca8b9bfd3f0f3e501df974482b53cafd92845e592f7d1c36",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts": {
+        "version": "48f5ed48279e5cf7c845b628dcd242c9b493b8b09882c114a753f9ec98d4b093",
+        "signature": "48f5ed48279e5cf7c845b628dcd242c9b493b8b09882c114a753f9ec98d4b093",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/clients/types.d.ts": {
+        "version": "646ce1e3cc93669356835a857c44ebb41da47d935e737ce42151acefd0b75870",
+        "signature": "646ce1e3cc93669356835a857c44ebb41da47d935e737ce42151acefd0b75870",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/types.d.ts": {
+        "version": "9280ca278c6e064ec53cf6761bce31a16c31ef47920f2143602d3ed6c98f134d",
+        "signature": "9280ca278c6e064ec53cf6761bce31a16c31ef47920f2143602d3ed6c98f134d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/context.d.ts": {
+        "version": "1df1254a9ac7a0dbe8618ad3fac22167847bd91316a24d25ec29f30810c0acac",
+        "signature": "1df1254a9ac7a0dbe8618ad3fac22167847bd91316a24d25ec29f30810c0acac",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/clients/http_client/http_client.d.ts": {
+        "version": "7fa0a75e200141e90385b7b83c481b0288e6aa4e7a26e7198c9360bffc73a3d7",
+        "signature": "7fa0a75e200141e90385b7b83c481b0288e6aa4e7a26e7198c9360bffc73a3d7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/clients/rest/rest_client.d.ts": {
+        "version": "34344ace6410446318048b3d9088cf73c6da759da9a6d09fd5c3f58f39350519",
+        "signature": "34344ace6410446318048b3d9088cf73c6da759da9a6d09fd5c3f58f39350519",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts": {
+        "version": "8814b99f50b8e1e2189b72ad8b876ade21a939dec17704a195771e80acf9fe77",
+        "signature": "8814b99f50b8e1e2189b72ad8b876ade21a939dec17704a195771e80acf9fe77",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts": {
+        "version": "9dc5dcee05135bcc50f1494bd6c850792613e5bffb1b43af98e488032b134e0a",
+        "signature": "9dc5dcee05135bcc50f1494bd6c850792613e5bffb1b43af98e488032b134e0a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/hmac-validator.d.ts": {
+        "version": "b14e7452b294179f648f4609bfd296b2ab72e65d12b447ad22faccef109bfa0e",
+        "signature": "b14e7452b294179f648f4609bfd296b2ab72e65d12b447ad22faccef109bfa0e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/shop-validator.d.ts": {
+        "version": "3c3023e5edf139f61af1bc759f19acf999e932297e1467cebe2c5934fae632e0",
+        "signature": "3c3023e5edf139f61af1bc759f19acf999e932297e1467cebe2c5934fae632e0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/safe-compare.d.ts": {
+        "version": "086cf89eb46c5fb4536c42821ea1e285314179cd39d35e9f1ac01e2e5f90cc6f",
+        "signature": "086cf89eb46c5fb4536c42821ea1e285314179cd39d35e9f1ac01e2e5f90cc6f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/load-current-session.d.ts": {
+        "version": "99a98cceca595982d6aa09472176cedd573530a15a09ee39b0a176a397d2c853",
+        "signature": "99a98cceca595982d6aa09472176cedd573530a15a09ee39b0a176a397d2c853",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/load-offline-session.d.ts": {
+        "version": "295b4708a622425f846934266c60e6caf3a7a71897688750cf93a501b3a92140",
+        "signature": "295b4708a622425f846934266c60e6caf3a7a71897688750cf93a501b3a92140",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/delete-current-session.d.ts": {
+        "version": "9c7423f4aa60acb170d026ba6136a129f1232de29419eda33657f934da7f2449",
+        "signature": "9c7423f4aa60acb170d026ba6136a129f1232de29419eda33657f934da7f2449",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/delete-offline-session.d.ts": {
+        "version": "ee238efb0af94813e99738d93b55d5d4a918162a5ae0640c54d00e496bd3027a",
+        "signature": "ee238efb0af94813e99738d93b55d5d4a918162a5ae0640c54d00e496bd3027a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/store-session.d.ts": {
+        "version": "cce3c124b6c2dd7f8baf336740e03009e1ea32d2b1f67130e6b780c724ba8270",
+        "signature": "cce3c124b6c2dd7f8baf336740e03009e1ea32d2b1f67130e6b780c724ba8270",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/decode-session-token.d.ts": {
+        "version": "426651cd6efd3266a58b77dfa7c8f0d825da6a93d27fc0d962093f799143d81d",
+        "signature": "426651cd6efd3266a58b77dfa7c8f0d825da6a93d27fc0d962093f799143d81d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/nonce.d.ts": {
+        "version": "44e012302012ab15e22a83b1d3d64b12a00ea96b9737ebb7f4a59ad820781cb0",
+        "signature": "44e012302012ab15e22a83b1d3d64b12a00ea96b9737ebb7f4a59ad820781cb0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/webhooks/registry.d.ts": {
+        "version": "c9f2814ddc364a3cb4c9d4039c8f7fdb71cfa04e3894e2dd9e759fe33788b54a",
+        "signature": "c9f2814ddc364a3cb4c9d4039c8f7fdb71cfa04e3894e2dd9e759fe33788b54a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/index.d.ts": {
+        "version": "560048e19da775043e3e2118e99747e956d68c77b792cc6fe55d56460552c5a0",
+        "signature": "560048e19da775043e3e2118e99747e956d68c77b792cc6fe55d56460552c5a0",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/client/polaris-css.ts": {
+        "version": "f08add942fdae96e7d64d2fb7e3db7b7b76fea8f755c2cad9f47dd3ad766b680",
+        "signature": "5dff1aff460a7d1140a1b2b4679bf8d42885e4b4b77968ec8754da51c7f4c6df",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/client/itp-helper.ts": {
+        "version": "f6584ffbe4eb123cef5ad2ac76e0a0e119efc854884dca5fefba737ae34d64f5",
+        "signature": "2d87a41991b81be29ed6b9ac1f3a905bf136df653a5e517aed7620b70c68fcb8",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/client/top-level-interaction.ts": {
+        "version": "3ff365ed68e046c84bfa444f54c57db57369d3431e2422737bf59ce337ef333d",
+        "signature": "8c2c738078af0d7b0d6c6c91ce199785a75453d9717b5a9fc192f1e3f150d51b",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/errors.ts": {
+        "version": "ca6a325ea27b7624d7835e0925b5bbccf7bf9c956eea676dc7ded36d339dab13",
+        "signature": "736f33568629ac215ef0344b6d78872a5a70064ecf6700fa420137dfc39947ab",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/create-enable-cookies.ts": {
+        "version": "6e99239f3787ac9d599d0ccb148bf04402c90b03de16941de210327992d5c0fe",
+        "signature": "febb58cfaa78cb481055255949d4794548a638fd399b3c1b1c6f3d4470c21251",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/redirection-page.ts": {
+        "version": "7a059fb340ab0aa9c6d7ce1e9a9c3edba7115a1dff2906f853d93eae295d41a0",
+        "signature": "9eac3ffcb92b345cd59918ec0e2e714dc76f0cfb15ceedd33ae2d9cb6bb168cc",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/create-top-level-redirect.ts": {
+        "version": "38eb6f337a138198498ed90ccd741bcb8396f0a858b0eee248f3c36a93e7b002",
+        "signature": "5f4c16d73071d606af2711662a3728661c4de4938a70c0a36eaff0a1ef820363",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/create-top-level-oauth-redirect.ts": {
+        "version": "5969238e9531b9e000d43494c36948fe4602eab1898c41781e2bed611a3ff5ca",
+        "signature": "9c4662f7c1ecd586877bd9f8588550a495f5691b7b9687a3282265390a55a9fa",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/client/request-storage-access.ts": {
+        "version": "5bc1652a36a1a5ca4d9d68eb8d91d9200dffa3d005ba3d9eb5a87ace2059188d",
+        "signature": "bcc45038db3483f82195cff2b1411d7129ab13b3e56a1307203264adc83727a7",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/client/storage-access-helper.ts": {
+        "version": "175e07ab5f18f2fa3aa2dcc4d08f6304627d47f2260327019ff78efd852f191f",
+        "signature": "c89288fe4af2bb98980426a012136630fa77de08f27f3a725b936f9fa24b84dc",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/create-request-storage-access.ts": {
+        "version": "1874c08ff69cad637f3f4de97d88bd1e606bfeccf16af191afd9ca9aa34fc4c7",
+        "signature": "0b3d5c3966a159aadd4c56821a0a6c2014dc23c3690a4e8ac4da3af10b463496",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/index.ts": {
+        "version": "17771646b1b2d867fea7b82138f79c76cc53a9473b944bd72e589f24e505dcfc",
+        "signature": "0add2a28d80e0db1f12e6cf7ea0a3ae2bddbd18aee9623d42badb646ebce8ef9",
+        "affectsGlobalScope": false
+      },
+      "../src/init.ts": {
+        "version": "d4af2beb675631c3d82d4b99ec3c154aeca8683a5f8d94ff36abbc99db4dfb13",
+        "signature": "3fd1d1346e9d41ac14b10a8d448e212869ce0117a5d3936e77f617ef506ac2a9",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/types.ts": {
+        "version": "432fa2cc8a175ef3e620d5ee1292efba294c56b141b39edf046b53dcd8d1e8d2",
+        "signature": "70bc554688d7904f692323a228dcb97b2a842120025bb81b500c894122310621",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/utilities.ts": {
+        "version": "a2f25e4785db5090843e0db69853e21b93998770ff3a8f649335ad82ae7573c3",
+        "signature": "2a8561ab45354eb8c4123cd6361fd10cecf54a338ed4b1f8a9de6053a8cf183e",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/login-again-if-different-shop.ts": {
+        "version": "0910e6dd316bf5b72806814e22e545628a6b50404abe2f9f25214118b7dcb083",
+        "signature": "f6900eb610d2027c7e4d85266c36dc6f8587d77a58ebd35ea5920cacf9965116",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/verify-token.ts": {
+        "version": "bfb4a99fb1c4c53886af4e35c6a2db55e3d3feea2bb999d2f59343501aa61d18",
+        "signature": "e94c4881ee80c84e36c80c47f40516668c48a3cce7b8b61446366d4dfb072d55",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/verify-request.ts": {
+        "version": "ce1135790c1c93add4a5f204fe9a4209de89ab675f8e6ae3e3413f00edee3601",
+        "signature": "58ae3cb74ed3fc954edf0660e73c1bead7ba1e9feb0d4f464c66bd63526a7e16",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/index.ts": {
+        "version": "db0ba851b4691ccbc0f4b49a71e55567df6fe3acfd5d22887370dee7a0074ca5",
+        "signature": "9843302385e47a887ed7a644c1c58c38d5e5bcfb73d13781f6ce3021592f0090",
+        "affectsGlobalScope": false
+      },
+      "../src/index.ts": {
+        "version": "0d6abf0204520f8c737973926b4e6ee368bd8da9c8edb3980926668308fb7d66",
+        "signature": "f605b6c22f15461b44fe730ec7f3591af1c5602a241e00f595f678379d5e1f45",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "composite": true,
+      "declaration": true,
+      "declarationMap": true,
+      "pretty": true,
+      "moduleResolution": 2,
+      "target": 1,
+      "downlevelIteration": true,
+      "esModuleInterop": true,
+      "jsx": 2,
+      "strictNullChecks": true,
+      "noImplicitAny": false,
+      "sourceMap": false,
+      "noEmitOnError": false,
+      "experimentalDecorators": true,
+      "noUnusedParameters": true,
+      "noUnusedLocals": true,
+      "importHelpers": true,
+      "lib": [
+        "lib.dom.d.ts",
+        "lib.dom.iterable.d.ts",
+        "lib.es2015.d.ts",
+        "lib.es2016.d.ts",
+        "lib.es2017.d.ts",
+        "lib.es2018.d.ts",
+        "lib.es2018.asynciterable.d.ts"
+      ],
+      "typeRoots": [
+        "../../node_modules/@types"
+      ],
+      "outDir": "./",
+      "baseUrl": "..",
+      "rootDir": "..",
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../node_modules/@shopify/network/build/ts/index.d.ts": [
+        "../node_modules/@shopify/network/build/ts/network.d.ts"
+      ],
+      "../node_modules/@shopify/network/index.d.ts": [
+        "../node_modules/@shopify/network/build/ts/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/http_client/http_client.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts": [
+        "../node_modules/@shopify/network/index.d.ts",
+        "../node_modules/@types/node-fetch/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/rest/rest_client.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/http_client.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/rest/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/rest/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/rest/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/context.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/index.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/rest/rest_client.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/context.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/error.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/decode-session-token.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/delete-current-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/delete-offline-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/hmac-validator.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/load-current-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/load-offline-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/nonce.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/safe-compare.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/shop-validator.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/store-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/webhooks/registry.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/delete-current-session.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/hmac-validator.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/load-current-session.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/load-offline-session.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/store-session.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/webhooks/registry.d.ts": [
+        "../node_modules/@shopify/network/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/types.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/accepts/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/body-parser/index.d.ts": [
+        "../node_modules/@types/connect/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/connect/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/cookies/index.d.ts": [
+        "../node_modules/@types/connect/index.d.ts",
+        "../node_modules/@types/express/index.d.ts",
+        "../node_modules/@types/keygrip/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/express-serve-static-core/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/qs/index.d.ts",
+        "../node_modules/@types/range-parser/index.d.ts"
+      ],
+      "../node_modules/@types/express/index.d.ts": [
+        "../node_modules/@types/body-parser/index.d.ts",
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/qs/index.d.ts",
+        "../node_modules/@types/serve-static/index.d.ts"
+      ],
+      "../node_modules/@types/koa-compose/index.d.ts": [
+        "../node_modules/@types/koa/index.d.ts"
+      ],
+      "../node_modules/@types/koa/index.d.ts": [
+        "../node_modules/@types/accepts/index.d.ts",
+        "../node_modules/@types/content-disposition/index.d.ts",
+        "../node_modules/@types/cookies/index.d.ts",
+        "../node_modules/@types/http-assert/index.d.ts",
+        "../node_modules/@types/http-errors/index.d.ts",
+        "../node_modules/@types/keygrip/index.d.ts",
+        "../node_modules/@types/koa-compose/index.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node-fetch/index.d.ts": [
+        "../node_modules/@types/node-fetch/externals.d.ts",
+        "../node_modules/@types/node-fetch/node_modules/form-data/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node-fetch/node_modules/form-data/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/base.d.ts": [
+        "../node_modules/@types/node/assert.d.ts",
+        "../node_modules/@types/node/ts3.6/base.d.ts"
+      ],
+      "../node_modules/@types/node/child_process.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/cluster.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/console.d.ts": [
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@types/node/constants.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/os.d.ts"
+      ],
+      "../node_modules/@types/node/crypto.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/dgram.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/domain.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/events.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/fs.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/fs/promises.d.ts": [
+        "../node_modules/@types/node/fs.d.ts"
+      ],
+      "../node_modules/@types/node/http.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/http2.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/https.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/index.d.ts": [
+        "../node_modules/@types/node/base.d.ts"
+      ],
+      "../node_modules/@types/node/inspector.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/module.d.ts": [
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/net.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/perf_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "../node_modules/@types/node/process.d.ts": [
+        "../node_modules/@types/node/tty.d.ts"
+      ],
+      "../node_modules/@types/node/readline.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/repl.d.ts": [
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/stream.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/tls.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/ts3.4/base.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/cluster.d.ts",
+        "../node_modules/@types/node/console.d.ts",
+        "../node_modules/@types/node/constants.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dgram.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/domain.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/globals.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@types/node/inspector.d.ts",
+        "../node_modules/@types/node/module.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/os.d.ts",
+        "../node_modules/@types/node/path.d.ts",
+        "../node_modules/@types/node/perf_hooks.d.ts",
+        "../node_modules/@types/node/process.d.ts",
+        "../node_modules/@types/node/punycode.d.ts",
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/repl.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/string_decoder.d.ts",
+        "../node_modules/@types/node/timers.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/trace_events.d.ts",
+        "../node_modules/@types/node/tty.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/v8.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/worker_threads.d.ts",
+        "../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../node_modules/@types/node/ts3.6/base.d.ts": [
+        "../node_modules/@types/node/globals.global.d.ts",
+        "../node_modules/@types/node/ts3.4/base.d.ts",
+        "../node_modules/@types/node/wasi.d.ts"
+      ],
+      "../node_modules/@types/node/tty.d.ts": [
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/url.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts"
+      ],
+      "../node_modules/@types/node/v8.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/worker_threads.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/zlib.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/serve-static/index.d.ts": [
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/mime/index.d.ts"
+      ],
+      "../src/auth/cookie-options.ts": [
+        "../node_modules/@types/koa/index.d.ts"
+      ],
+      "../src/auth/create-enable-cookies.ts": [
+        "../node_modules/@shopify/shopify-api/dist/index.d.ts",
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/auth/client/itp-helper.ts",
+        "../src/auth/client/polaris-css.ts",
+        "../src/auth/client/top-level-interaction.ts",
+        "../src/auth/errors.ts",
+        "../src/types.ts"
+      ],
+      "../src/auth/create-request-storage-access.ts": [
+        "../node_modules/@shopify/shopify-api/dist/index.d.ts",
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/auth/client/itp-helper.ts",
+        "../src/auth/client/polaris-css.ts",
+        "../src/auth/client/request-storage-access.ts",
+        "../src/auth/client/storage-access-helper.ts",
+        "../src/auth/errors.ts",
+        "../src/types.ts"
+      ],
+      "../src/auth/create-top-level-oauth-redirect.ts": [
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/auth/cookie-options.ts",
+        "../src/auth/create-top-level-redirect.ts",
+        "../src/auth/index.ts"
+      ],
+      "../src/auth/create-top-level-redirect.ts": [
+        "../node_modules/@types/koa/index.d.ts",
+        "../node_modules/@types/node/querystring.d.ts",
+        "../src/auth/redirection-page.ts"
+      ],
+      "../src/auth/index.ts": [
+        "../node_modules/@shopify/shopify-api/dist/index.d.ts",
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/auth/cookie-options.ts",
+        "../src/auth/create-enable-cookies.ts",
+        "../src/auth/create-request-storage-access.ts",
+        "../src/auth/create-top-level-oauth-redirect.ts",
+        "../src/auth/errors.ts",
+        "../src/types.ts"
+      ],
+      "../src/index.ts": [
+        "../src/auth/index.ts",
+        "../src/init.ts",
+        "../src/verify-request/index.ts"
+      ],
+      "../src/init.ts": [
+        "../node_modules/@shopify/shopify-api/dist/index.d.ts"
+      ],
+      "../src/types.ts": [
+        "../node_modules/@types/koa/index.d.ts"
+      ],
+      "../src/verify-request/index.ts": [
+        "../src/verify-request/verify-request.ts"
+      ],
+      "../src/verify-request/login-again-if-different-shop.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/index.d.ts",
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/types.ts",
+        "../src/verify-request/types.ts",
+        "../src/verify-request/utilities.ts"
+      ],
+      "../src/verify-request/utilities.ts": [
+        "../node_modules/@shopify/shopify-api/dist/index.d.ts",
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/verify-request/types.ts"
+      ],
+      "../src/verify-request/verify-request.ts": [
+        "../node_modules/@types/koa-compose/index.d.ts",
+        "../src/verify-request/login-again-if-different-shop.ts",
+        "../src/verify-request/types.ts",
+        "../src/verify-request/verify-token.ts"
+      ],
+      "../src/verify-request/verify-token.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/index.d.ts",
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/index.ts",
+        "../src/types.ts",
+        "../src/verify-request/types.ts",
+        "../src/verify-request/utilities.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../node_modules/@shopify/network/build/ts/index.d.ts": [
+        "../node_modules/@shopify/network/build/ts/network.d.ts"
+      ],
+      "../node_modules/@shopify/network/index.d.ts": [
+        "../node_modules/@shopify/network/build/ts/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/http_client/http_client.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts": [
+        "../node_modules/@shopify/network/index.d.ts",
+        "../node_modules/@types/node-fetch/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/rest/rest_client.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/http_client.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/rest/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/rest/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/rest/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/context.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/index.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/rest/rest_client.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/context.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/error.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/decode-session-token.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/delete-current-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/delete-offline-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/hmac-validator.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/load-current-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/load-offline-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/nonce.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/safe-compare.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/shop-validator.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/store-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/webhooks/registry.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/delete-current-session.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/hmac-validator.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/load-current-session.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/load-offline-session.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/store-session.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/webhooks/registry.d.ts": [
+        "../node_modules/@shopify/network/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/types.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/accepts/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/body-parser/index.d.ts": [
+        "../node_modules/@types/connect/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/connect/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/cookies/index.d.ts": [
+        "../node_modules/@types/connect/index.d.ts",
+        "../node_modules/@types/express/index.d.ts",
+        "../node_modules/@types/keygrip/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/express-serve-static-core/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/qs/index.d.ts",
+        "../node_modules/@types/range-parser/index.d.ts"
+      ],
+      "../node_modules/@types/express/index.d.ts": [
+        "../node_modules/@types/body-parser/index.d.ts",
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/qs/index.d.ts",
+        "../node_modules/@types/serve-static/index.d.ts"
+      ],
+      "../node_modules/@types/koa-compose/index.d.ts": [
+        "../node_modules/@types/koa/index.d.ts"
+      ],
+      "../node_modules/@types/koa/index.d.ts": [
+        "../node_modules/@types/accepts/index.d.ts",
+        "../node_modules/@types/content-disposition/index.d.ts",
+        "../node_modules/@types/cookies/index.d.ts",
+        "../node_modules/@types/http-assert/index.d.ts",
+        "../node_modules/@types/http-errors/index.d.ts",
+        "../node_modules/@types/keygrip/index.d.ts",
+        "../node_modules/@types/koa-compose/index.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node-fetch/index.d.ts": [
+        "../node_modules/@types/node-fetch/externals.d.ts",
+        "../node_modules/@types/node-fetch/node_modules/form-data/index.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node-fetch/node_modules/form-data/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/base.d.ts": [
+        "../node_modules/@types/node/assert.d.ts",
+        "../node_modules/@types/node/ts3.6/base.d.ts"
+      ],
+      "../node_modules/@types/node/child_process.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/cluster.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/console.d.ts": [
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@types/node/constants.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/os.d.ts"
+      ],
+      "../node_modules/@types/node/crypto.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/dgram.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/domain.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/events.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/fs.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/fs/promises.d.ts": [
+        "../node_modules/@types/node/fs.d.ts"
+      ],
+      "../node_modules/@types/node/http.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/http2.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/https.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/index.d.ts": [
+        "../node_modules/@types/node/base.d.ts"
+      ],
+      "../node_modules/@types/node/inspector.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/module.d.ts": [
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/net.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/perf_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "../node_modules/@types/node/process.d.ts": [
+        "../node_modules/@types/node/tty.d.ts"
+      ],
+      "../node_modules/@types/node/readline.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/repl.d.ts": [
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/stream.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/tls.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/ts3.4/base.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/cluster.d.ts",
+        "../node_modules/@types/node/console.d.ts",
+        "../node_modules/@types/node/constants.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dgram.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/domain.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/globals.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@types/node/inspector.d.ts",
+        "../node_modules/@types/node/module.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/os.d.ts",
+        "../node_modules/@types/node/path.d.ts",
+        "../node_modules/@types/node/perf_hooks.d.ts",
+        "../node_modules/@types/node/process.d.ts",
+        "../node_modules/@types/node/punycode.d.ts",
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/repl.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/string_decoder.d.ts",
+        "../node_modules/@types/node/timers.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/trace_events.d.ts",
+        "../node_modules/@types/node/tty.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/v8.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/worker_threads.d.ts",
+        "../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../node_modules/@types/node/ts3.6/base.d.ts": [
+        "../node_modules/@types/node/globals.global.d.ts",
+        "../node_modules/@types/node/ts3.4/base.d.ts",
+        "../node_modules/@types/node/wasi.d.ts"
+      ],
+      "../node_modules/@types/node/tty.d.ts": [
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/url.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts"
+      ],
+      "../node_modules/@types/node/v8.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/worker_threads.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/zlib.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/serve-static/index.d.ts": [
+        "../node_modules/@types/express-serve-static-core/index.d.ts",
+        "../node_modules/@types/mime/index.d.ts"
+      ],
+      "../src/auth/cookie-options.ts": [
+        "../node_modules/@types/koa/index.d.ts"
+      ],
+      "../src/auth/create-enable-cookies.ts": [
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/types.ts"
+      ],
+      "../src/auth/create-request-storage-access.ts": [
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/types.ts"
+      ],
+      "../src/auth/create-top-level-oauth-redirect.ts": [
+        "../node_modules/@types/koa/index.d.ts"
+      ],
+      "../src/auth/create-top-level-redirect.ts": [
+        "../node_modules/@types/koa/index.d.ts"
+      ],
+      "../src/auth/index.ts": [
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/auth/errors.ts",
+        "../src/types.ts"
+      ],
+      "../src/index.ts": [
+        "../src/auth/index.ts",
+        "../src/init.ts",
+        "../src/verify-request/index.ts"
+      ],
+      "../src/init.ts": [
+        "../node_modules/@shopify/shopify-api/dist/index.d.ts"
+      ],
+      "../src/types.ts": [
+        "../node_modules/@types/koa/index.d.ts"
+      ],
+      "../src/verify-request/index.ts": [
+        "../src/verify-request/verify-request.ts"
+      ],
+      "../src/verify-request/login-again-if-different-shop.ts": [
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/types.ts",
+        "../src/verify-request/types.ts"
+      ],
+      "../src/verify-request/utilities.ts": [
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/verify-request/types.ts"
+      ],
+      "../src/verify-request/verify-request.ts": [
+        "../node_modules/@types/koa-compose/index.d.ts",
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/verify-request/types.ts"
+      ],
+      "../src/verify-request/verify-token.ts": [
+        "../node_modules/@types/koa/index.d.ts",
+        "../src/types.ts",
+        "../src/verify-request/types.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../node_modules/@shopify/network/build/ts/index.d.ts",
+      "../node_modules/@shopify/network/build/ts/network.d.ts",
+      "../node_modules/@shopify/network/index.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/clients/http_client/http_client.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/clients/rest/rest_client.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/clients/rest/types.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/clients/types.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/context.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/error.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/index.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/types.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/decode-session-token.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/delete-current-session.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/delete-offline-session.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/hmac-validator.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/load-current-session.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/load-offline-session.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/nonce.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/safe-compare.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/shop-validator.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/store-session.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/webhooks/registry.d.ts",
+      "../node_modules/@types/accepts/index.d.ts",
+      "../node_modules/@types/body-parser/index.d.ts",
+      "../node_modules/@types/connect/index.d.ts",
+      "../node_modules/@types/content-disposition/index.d.ts",
+      "../node_modules/@types/cookies/index.d.ts",
+      "../node_modules/@types/express-serve-static-core/index.d.ts",
+      "../node_modules/@types/express/index.d.ts",
+      "../node_modules/@types/http-assert/index.d.ts",
+      "../node_modules/@types/http-errors/index.d.ts",
+      "../node_modules/@types/keygrip/index.d.ts",
+      "../node_modules/@types/koa-compose/index.d.ts",
+      "../node_modules/@types/koa/index.d.ts",
+      "../node_modules/@types/mime/index.d.ts",
+      "../node_modules/@types/node-fetch/externals.d.ts",
+      "../node_modules/@types/node-fetch/index.d.ts",
+      "../node_modules/@types/node-fetch/node_modules/form-data/index.d.ts",
+      "../node_modules/@types/node/assert.d.ts",
+      "../node_modules/@types/node/async_hooks.d.ts",
+      "../node_modules/@types/node/base.d.ts",
+      "../node_modules/@types/node/buffer.d.ts",
+      "../node_modules/@types/node/child_process.d.ts",
+      "../node_modules/@types/node/cluster.d.ts",
+      "../node_modules/@types/node/console.d.ts",
+      "../node_modules/@types/node/constants.d.ts",
+      "../node_modules/@types/node/crypto.d.ts",
+      "../node_modules/@types/node/dgram.d.ts",
+      "../node_modules/@types/node/dns.d.ts",
+      "../node_modules/@types/node/domain.d.ts",
+      "../node_modules/@types/node/events.d.ts",
+      "../node_modules/@types/node/fs.d.ts",
+      "../node_modules/@types/node/fs/promises.d.ts",
+      "../node_modules/@types/node/globals.d.ts",
+      "../node_modules/@types/node/globals.global.d.ts",
+      "../node_modules/@types/node/http.d.ts",
+      "../node_modules/@types/node/http2.d.ts",
+      "../node_modules/@types/node/https.d.ts",
+      "../node_modules/@types/node/index.d.ts",
+      "../node_modules/@types/node/inspector.d.ts",
+      "../node_modules/@types/node/module.d.ts",
+      "../node_modules/@types/node/net.d.ts",
+      "../node_modules/@types/node/os.d.ts",
+      "../node_modules/@types/node/path.d.ts",
+      "../node_modules/@types/node/perf_hooks.d.ts",
+      "../node_modules/@types/node/process.d.ts",
+      "../node_modules/@types/node/punycode.d.ts",
+      "../node_modules/@types/node/querystring.d.ts",
+      "../node_modules/@types/node/readline.d.ts",
+      "../node_modules/@types/node/repl.d.ts",
+      "../node_modules/@types/node/stream.d.ts",
+      "../node_modules/@types/node/string_decoder.d.ts",
+      "../node_modules/@types/node/timers.d.ts",
+      "../node_modules/@types/node/tls.d.ts",
+      "../node_modules/@types/node/trace_events.d.ts",
+      "../node_modules/@types/node/ts3.4/base.d.ts",
+      "../node_modules/@types/node/ts3.6/base.d.ts",
+      "../node_modules/@types/node/tty.d.ts",
+      "../node_modules/@types/node/url.d.ts",
+      "../node_modules/@types/node/util.d.ts",
+      "../node_modules/@types/node/v8.d.ts",
+      "../node_modules/@types/node/vm.d.ts",
+      "../node_modules/@types/node/wasi.d.ts",
+      "../node_modules/@types/node/worker_threads.d.ts",
+      "../node_modules/@types/node/zlib.d.ts",
+      "../node_modules/@types/qs/index.d.ts",
+      "../node_modules/@types/range-parser/index.d.ts",
+      "../node_modules/@types/serve-static/index.d.ts",
+      "../node_modules/tslib/tslib.d.ts",
+      "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "../src/auth/client/itp-helper.ts",
+      "../src/auth/client/polaris-css.ts",
+      "../src/auth/client/request-storage-access.ts",
+      "../src/auth/client/storage-access-helper.ts",
+      "../src/auth/client/top-level-interaction.ts",
+      "../src/auth/cookie-options.ts",
+      "../src/auth/create-enable-cookies.ts",
+      "../src/auth/create-request-storage-access.ts",
+      "../src/auth/create-top-level-oauth-redirect.ts",
+      "../src/auth/create-top-level-redirect.ts",
+      "../src/auth/errors.ts",
+      "../src/auth/index.ts",
+      "../src/auth/redirection-page.ts",
+      "../src/index.ts",
+      "../src/init.ts",
+      "../src/types.ts",
+      "../src/verify-request/index.ts",
+      "../src/verify-request/login-again-if-different-shop.ts",
+      "../src/verify-request/types.ts",
+      "../src/verify-request/utilities.ts",
+      "../src/verify-request/verify-request.ts",
+      "../src/verify-request/verify-token.ts"
+    ]
+  },
+  "version": "4.0.2"
+}
